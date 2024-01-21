@@ -1,6 +1,8 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" alt="PHP"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
@@ -8,8 +10,6 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" title="NestJs" alt="NestJs" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" alt="PHP"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel"/></code>
 <img width="25" height="25" src="https://www.svgrepo.com/show/373548/delphi.svg" title="Delphi" alt="Delphi"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="Sass" alt="Sass" />

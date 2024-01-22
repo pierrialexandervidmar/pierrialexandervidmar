@@ -3,6 +3,7 @@
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel"/></code>
+<img width="25" height="25" src="https://pestphp.com/www/assets/logo.svg" title="Pest" alt="Pest"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />

@@ -11,10 +11,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" title="NestJs" alt="NestJs" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
-<img width="25" height="25" src="https://www.svgrepo.com/show/373548/delphi.svg" title="Delphi" alt="Delphi"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="Sass" alt="Sass" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>

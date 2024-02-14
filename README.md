@@ -1,6 +1,8 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
@@ -9,8 +11,6 @@
 <img width="25" height="25" src="https://www.svgrepo.com/show/452088/php.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel"/></code>
 <img width="25" height="25" src="https://pestphp.com/www/assets/logo.svg" title="Pest" alt="Pest"/></code>
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="Sass" alt="Sass" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>

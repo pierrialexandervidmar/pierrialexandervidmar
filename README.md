@@ -1,6 +1,9 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+  https://cdn.worldvectorlogo.com/logos/c--4.svg
+<img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C#" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".Net" alt=".Net" /></code>
 <img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" /></code>

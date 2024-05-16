@@ -1,8 +1,6 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
-<img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" title="NestJs" alt="NestJs" /></code>

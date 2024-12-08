@@ -7,7 +7,6 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" /></code>
 <img width="25" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/delphi.svg" title="Delphi" alt="Delphi" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>

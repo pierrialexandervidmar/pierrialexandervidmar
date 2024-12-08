@@ -2,7 +2,7 @@
 
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
-<img width="25" height="25" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" title="Pandas" alt="Pandas" /></code>
+<img width="25" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" title="Pandas" alt="Pandas" /></code>
 <img width="25" height="25" src="https://www.svgrepo.com/show/452088/php.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>

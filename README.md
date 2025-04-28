@@ -1,6 +1,8 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
@@ -8,8 +10,6 @@
 <img width="25" height="25" src="https://www.svgrepo.com/show/452088/php.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel" /></code>
 <img width="25" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/delphi.svg" title="Delphi" alt="Delphi" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>

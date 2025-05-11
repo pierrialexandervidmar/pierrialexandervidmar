@@ -1,6 +1,7 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" title="Golang" alt="Golang" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>

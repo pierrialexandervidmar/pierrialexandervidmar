@@ -10,6 +10,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
 <img height="25" src="https://github.com/pierrialexandervidmar/Formacao_Asimov_DataScience_MachineLearning/blob/main/Pandas_logo3.png" title="Pandas" alt="Pandas" /></code>
 <img width="25" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/delphi.svg" title="Delphi" alt="Delphi" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>

@@ -4,8 +4,8 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
-<img width="25" height="25" src="https://files.svgcdn.io/logos/fastapi.svg" title="FastAPI" alt="FastAPI" /></code>
-<img width="25" height="25" src="https://datasciencedojo.com/wp-content/uploads/2024/06/LangChain-Logo.webp" title="LangChain" alt="LangChain" /></code>
+<img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" alt="FastAPI" /></code>
+<img width="25" height="25" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" title="LangChain" alt="LangChain" /></code>
 <img height="25" src="https://github.com/pierrialexandervidmar/Formacao_Asimov_DataScience_MachineLearning/blob/main/Pandas_logo3.png" title="Pandas" alt="Pandas" /></code>
 <img width="25" height="25" src="https://www.svgrepo.com/show/452088/php.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel" /></code>
